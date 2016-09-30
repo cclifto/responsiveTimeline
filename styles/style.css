@@ -72,6 +72,9 @@ top: 15px;
 
 }
 
+i.finger-icon {
+  font-size: 40px;
+}
 
 @media(max-width: 768px) {
  
